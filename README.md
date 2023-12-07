@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **angelorajesh11@gmail.com**
 
-- ⚡ Fun fact **it's all 0's and 1's**
-
 - 🌐 Website **https://angelo-rajesh.netlify.app/**
+
+- ⚡ Fun fact **it's all 0's and 1's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
