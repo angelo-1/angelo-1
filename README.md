@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelo-1&label=Profile%20views&color=0e75b6&style=flat" alt="angelo-1" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [angelo-1](https://github.com/angelo-1)
 
-- 💬 Ask me about **React, MERN**
+- 💬 Ask me about **Angular, React, MERN**
 
 - 📫 How to reach me **angelorajesh11@gmail.com**
 
