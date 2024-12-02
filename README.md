@@ -4,7 +4,7 @@
   
 - 🌱 ***Currently Exploring*** - Enhancing my expertise in **Angular, TypeScript, and advanced front-end architectures**.
   
-- 👨‍💻 All of my projects are available at [angelo-1](https://github.com/angelo-1)
+- 👨‍💻 All of my projects are available at [angelo-1](https://github.com/angelo-1?tab=repositories)
 
 - 💬 Ask me about **Angular, React, MERN**
 
